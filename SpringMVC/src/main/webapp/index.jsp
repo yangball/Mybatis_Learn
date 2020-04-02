@@ -7,12 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h3>欢迎</h3>
-		<!--
-		<a href="hello">hello world</a>
-		-->
-		<a href="user/testRequestMapping">RequestMapping注解</a>
-		<a href="user/testParam?username=hehe&password=123">请求参数绑定</a>
-		
+	<h3>重定向</h3>
+
 </body>
 </html>
